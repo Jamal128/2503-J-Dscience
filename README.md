@@ -1,9 +1,1 @@
-# 2503-J-Dscience
-Ejercicios
-
-
-
-
-
-
-gatos
+# 2409_dsft_thebridge_alumnos
