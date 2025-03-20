@@ -17,7 +17,7 @@ Un lenguaje de programación es un lenguaje formal que proporciona un conjunto d
 En resumen, a través del código escrito en un lenguaje de programación, le decimos a la computadora qué hacer y cómo hacerlo.
 
 <a name="seccion2"></a>
-## 2. ¿Por qué Python? poq si
+## 2. ¿Por qué Python?
 
 Python es uno de los lenguajes de programación más populares en el mundo. Fue creado en 1991 por Guido van Rossum, y desde entonces ha sido adoptado en una amplia gama de industrias y aplicaciones gracias a su simplicidad y flexibilidad.
 
